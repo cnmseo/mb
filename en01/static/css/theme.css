@@ -1,0 +1,223 @@
+.wptao-item{width:auto;height:auto;padding:10px;border:1px solid #eee;overflow:hidden;vertical-align:middle;display:block;margin:10px auto;position:relative}
+.wptao-item:hover{box-shadow:1px 1px 8px #eee}
+.wptao-item a{text-decoration:none;cursor:pointer}
+.wptao-red{color:red}
+.wptao-L{margin:10px 0}
+.wptao-R{float:right}
+.wptao-clear{clear:both}
+.wptao-item-1{max-width:480px}
+.wptao-item-1 img.wptao-res{max-width:140px;max-height:140px;float:left;margin:0 auto;margin-right:10px}
+.wptao-item-1 span{display:block}
+.wptao-item-1 .wptao-title{font-size:16px;line-height:22px;max-height:44px;overflow:hidden;color:#333}
+.wptao-item-1 .wptao-title em{font-size:12px;font-style:normal}
+.wptao-item-1 .wptao-des{font-size:12px;color:#777;line-height:18px;max-height:36px;overflow:hidden;display:block;margin-top:10px;margin-bottom:10px}
+.wptao-item-1 .wptao-oth{line-height:24px;font-family:"Helvetica","Hiragino Sans GB","Microsoft Yahei",sans-serif}
+.wptao-item-1 .wptao-oth .wptao-res i{font-size:12px;vertical-align:0;margin-right:3px}
+.wptao-item-1 .wptao-price{padding:4px 10px;background:#f04848;color:#fff;font-size:14px;word-spacing:8px;letter-spacing:1px;float:right}
+.wptao-item-1 .wptao-quan{float:right;margin-right:40px}
+.wptao-item-1 .wptao-oth .wptao-quan a{float:left;width:95px;height:30px;line-height:30px;border:1px dotted #f95c68;color:#f95c68;box-shadow:none;text-align:center}
+.wptao-item-1 .wptao-oth .wptao-quan a:hover{background-color:#fff2f3;text-decoration:none}
+.wptao-item-1 .wptao-oth .wptao-quan a .quan{float:left;display:inline-block;width:30px;text-align:center;border-right:1px dotted #f95c68}
+.wptao-item-2{max-width:520px}
+.wptao-item-2 img.wptao-res{max-width:140px;max-height:140px;float:left;margin:0 auto;margin-right:10px}
+.wptao-item-2 span{display:block}
+.wptao-item-2 .wptao-title{font-size:16px;line-height:22px;max-height:44px;overflow:hidden;color:#333}
+.wptao-item-2 .wptao-title em{font-size:12px;font-style:normal}
+.wptao-item-2 .wptao-des{font-size:12px;color:#777;line-height:18px;max-height:36px;overflow:hidden;display:block;margin-top:10px;margin-bottom:10px}
+.wptao-item-2 .wptao-oth{padding-top:8px;line-height:24px;font-family:"Helvetica","Hiragino Sans GB","Microsoft Yahei",sans-serif}
+.wptao-item-2 .wptao-oth .wptao-res i{font-size:12px;vertical-align:0;margin-right:3px}
+.wptao-item-2 .wptao-btn{font-size:16px;float:right;height:30px;width:100px;line-height:30px;border:1px solid #da0d15;-webkit-border-radius:4px;-moz-border-radius:4px;border-radius:4px;color:#da0d15;text-align:center}
+.wptao-item-2 .wptao-price{font-size:16px;float:left;line-height:32px;color:#f50}
+.wptao-item-2 .wptao-price em{font-size:14px;font-style:normal}
+.wptao-item-2 .wptao-old-price{font-size:12px;color:#999;float:left;margin:5px 10px 0;text-decoration:line-through}
+.wptao-item-2 .wptao-quan a{float:left;width:95px;height:30px;margin-right:8px;line-height:30px;border:1px dotted #f95c68;color:#f95c68;box-shadow:none;text-align:center}
+.wptao-item-2 .wptao-quan a:hover{background-color:#fff2f3;text-decoration:none}
+.wptao-item-2 .wptao-quan a .quan{float:left;display:inline-block;width:30px;text-align:center;border-right:1px dotted #f95c68}
+.wptao-item-3{max-width:400px;border:0px solid black;box-sizing:border-box;display:flex}
+.wptao-item-3 .item-img,.wptao-item-3 .item-bg,.wptao-item-3 .wptao-des{border:0px solid black;position:absolute;box-sizing:border-box}
+.wptao-item-3 .item-img{position:relative;vertical-align:middle}
+.wptao-item-3 .wptao-res{width:100%;display:flex;vertical-align:middle;background-color:#fff}
+.wptao-item-3 .item-bg{left:0px;top:0px;bottom:0px;right:0px;background-color:rgba(0,0,0,0.02)}
+.wptao-item-3 .wptao-des{bottom:16px;right:16px;z-index:2;height:38px;-webkit-box-align:center;align-items:center;border-radius:66px;background-image:linear-gradient(to right,rgb(248,204,0),rgb(255,157,0));padding:8px 20px 8px 18px;font-size:16px;color:#fff;display:flex;line-height:22px}
+.wptao-item-3 .item-sep{opacity:0.6;padding-left:16px;padding-right:16px}
+.wptao-item-3 .item-price{font-size:18px}
+.wptao-item-3 .item-price em{font-size:12px;font-style:normal}
+.wptao-item-4{max-width:600px}
+.wptao-item-4 img.wptao-res{max-width:380px;max-height:380px;margin:0 auto;display:table-cell}
+.wptao-item-4 span{display:block}
+.wptao-item-4 .wptao-title{font-size:16px;line-height:22px;max-height:44px;overflow:hidden;color:#333;font-weight:bold;margin:15px 10px 0 10px}
+.wptao-item-4 .wptao-title em{font-size:12px;font-style:normal}
+.wptao-item-4 .wptao-des{font-size:14px;color:#666;line-height:18px;max-height:54px;margin:10px;display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:3;overflow:hidden}
+.wptao-item-4 .wptao-morelink{font-size:14px;color:#a6a6a6;line-height:18px;margin:10px;display:-webkit-box;overflow:hidden;font-style:normal}
+.wptao-item-4 .wptao-oth{padding-top:8px;line-height:24px;font-family:"Helvetica","Hiragino Sans GB","Microsoft Yahei",sans-serif}
+.wptao-item-4 .wptao-oth .wptao-res i{font-size:12px;vertical-align:0;margin-right:3px}
+.wptao-item-4 .wptao-btn{font-size:16px;float:right;height:30px;width:70px;line-height:30px;border:1px solid #da0d15;-webkit-border-radius:4px;-moz-border-radius:4px;border-radius:4px;color:#da0d15;text-align:center;margin-bottom:10px;margin-right:10px}
+.wptao-item-4 .wptao-price{font-size:16px;float:left;line-height:32px;color:#da0d15;margin-bottom:10px;margin-left:10px}
+.wptao-item-4 .wptao-price em{font-size:14px;font-style:normal}
+.wptao-item-4 .wptao-old-price{font-size:12px;color:#999;float:left;margin:5px 10px 0;text-decoration:line-through}
+.wptao-item-4 .wptao-quan a{float:left;width:95px;height:30px;margin-right:8px;line-height:30px;border:1px dotted #f95c68;color:#f95c68;box-shadow:none;text-align:center;;margin-bottom:10px;margin-left:10px;overflow:hidden}
+.wptao-item-4 .wptao-quan a:hover{background-color:#fff2f3;text-decoration:none}
+.wptao-item-4 .wptao-quan a .quan{float:left;display:inline-block;width:30px;text-align:center;border-right:1px dotted #f95c68}
+.relpost li{width:25%;padding-bottom:20px;float:left;display:inline-block}
+.relpost-inner{padding:5px}
+.relpost-inner .zhi_pic a img{display:block;margin:2px;height:auto;max-width:98%;border:0}
+.relpost-inner-text,.relpost-inner .red_title{overflow:hidden;font-weight:normal;word-break:keep-all;white-space:nowrap;text-overflow:ellipsis}
+.relpost-inner-text{font-size:12px;padding-top:10px;line-height:25px}
+.relpost-inner .red_title{margin:0;color:#ff3366}
+.wptao_soldout{background:url('../images/soldout.png?ver=20161130') no-repeat 0 0;position:absolute;display:inline-block;z-index:6;left:25%;width:100px;height:100px}
+a.wptao-buy,a.wptao-buy:visited{font-size:15px;color:#fff;display:block;width:100px;height:40px;line-height:40px;background-color:#DA1A16;text-align:center;margin:0 auto;text-decoration:none;-webkit-border-radius:50px;-moz-border-radius:50px;-ms-border-radius:50px;-o-border-radius:50px;border-radius:50px}
+a.wptao-buy:hover{background-color:#bb120f}
+a.wptao-buy i{font-family:"SimSun";padding-left:6px;font-style:normal}
+@media screen and (max-width:980px){
+    .show-pc{display:none}
+}
+@media screen and (max-width:479px){
+    .wptao-item .wptao-quan{display:none}
+    .wptao-item .wptao-title{font-size:14px}
+    .wptao-item-4{background:#f7f7f7}
+    .wptao-item-4 img.wptao-res{max-width:300px;max-height:300px}
+    .wptao-item-4 .wptao-btn{font-size:12px}
+    .relpost li{width:50%}
+}
+@media screen and (max-width:400px){
+    .wptao-item-2 .wptao-des{display:none}
+    .wptao-item-2 .wptao-oth{padding-top:0px}
+    .wptao-item-2 .wptao-price{float:none}
+    .wptao-item-2 img.wptao-res{max-width:110px;max-height:110px}
+    .wptao-item-4 img.wptao-res{max-width:250px;max-height:250px}
+    .wptao-item-4 .wptao-morelink{display:none}
+}
+.swiper-pagination-bullet-active,.swiper-pagination-progress .swiper-pagination-progressbar,.hot-slider .swiper-button-next,.hot-slider .swiper-button-prev,.member-form .form-group.sms-code .send-sms-code,.member-form .btn-login,.TCaptcha-button .TCaptcha-icon i,.TCaptcha-button .TCaptcha-icon:before,.member-account-nav ul .active a,.member-account-item.sms-code .send-sms-code,.member-lp-process li.active i,.member-lp-process li.processed .process-line,.wpcom-profile .author-group,.wpcom-profile-main .profile-posts-list .item-content .edit-link,.wpcom-user-list .wpcom-user-group,.modules-video .modal-player,.social-login-form .sl-input-submit,.plyr--audio .plyr__control.plyr__tab-focus,.plyr--audio .plyr__control:hover,.plyr--audio .plyr__control[aria-expanded=true],.plyr--video .plyr__control.plyr__tab-focus,.plyr--video .plyr__control:hover,.plyr--video .plyr__control[aria-expanded=true],.plyr__control--overlaid,.plyr__control--overlaid:focus,.plyr__control--overlaid:hover,.plyr__menu__container .plyr__control[role=menuitemradio][aria-checked=true]:before,.navbar-action .publish,.entry-bar-inner .author-title,.comment-reply-title:before,.comments-title:before,.entry-related-title:before,.pagination .current,.post-loop-default .item-img.item-video .item-img-inner:before,.post-loop-default .item-title a .sticky-post,.post-loop-card .item-video:before,.post-loop-image .item-video:before,.post-loop-card .item-title .sticky-post,.post-loop-image .item-title .sticky-post,.widget-title:before,.widget_lastest_products .p-item-wrap .thumb.thumb-video:before,.sidebar .widget_nav_menu ul li.current-menu-item a,.sidebar .widget_nav_menu ul li.current-post-parent a,.widget_profile .author-group,.widget_post_thumb .item-img.item-video .item-img-inner:before,.btn-primary,.sec-panel-head h1 span:before,.sec-panel-head h2 span:before,.sec-panel-head h3 span:before,.list.tabs .tab.active a:after,.pf-submit,.login-modal-body .btn-login {
+    background-color:#f84e4e;
+}
+.action .contact-title,.entry .entry-content .has-theme-color-background-color,.form-submit .submit,.search-form input.submit,.wpcom-slider .swiper-pagination .swiper-pagination-bullet-active,.tagHandler ul.tagHandlerContainer li.tagItem {
+    background-color:#f84e4e;
+}
+.TCaptcha-button .TCaptcha-icon:after,.wpcom-user-list .wpcom-user-group,.smartphoto-loader,.entry-bar-inner .author-title,.entry-action .btn-dashang,.entry-action .btn-zan,.entry-readmore-btn,.widget_profile .author-group,.login-modal-body .btn-login,.login-modal-body .btn-register {
+    border-color:#f84e4e;
+}
+.member-lp-process li.active p,.wpcom-profile .wpcom-profile-nav li.active a,.plyr--full-ui input[type=range],body>header.header .nav>li.active>a,body>header.header .dropdown-menu>.active>a,.entry .entry-info .nickname,.entry .entry-content .has-theme-color-color,.entry-action .btn-dashang,.entry-action .btn-zan,.entry-readmore-btn,.pagination .pagination-go .pgo-btn:hover .fa,.comment-body .nickname a,.form-submit-text span,a,.sec-panel-head span,.list.tabs .tab.active a,.login-modal-body .btn-register,.kx-list .kx-date {
+    color:#f84e4e;
+}
+.wpcom-profile .author-group:before,.wpcom-user-list .wpcom-user-group:before,.entry-bar-inner .author-title:before,.widget_profile .author-group:before {
+    border-right-color:#f84e4e;
+}
+.wpcom-profile .wpcom-profile-nav li.active a {
+    border-bottom-color:#f84e4e;
+}
+.entry .entry-content .h3,.entry .entry-content h3,.entry .member-account-content .woocommerce h2 {
+    border-left-color:#f84e4e;
+}
+.search-form input.keyword:focus,.btn-primary {
+    border-color:#f84e4e;
+}
+.hot-slider .swiper-button-prev:hover,.hot-slider .swiper-container-rtl .swiper-button-next:hover,.hot-slider .swiper-button-next:hover,.hot-slider .swiper-container-rtl .swiper-button-prev:hover,.member-form .form-group.sms-code .send-sms-code:hover,.member-form .btn-login:hover,.member-account-nav ul a:hover,.member-account-nav ul .active a:hover,.member-account-item.sms-code .send-sms-code:hover,.wpcom-profile-main .profile-posts-list .item-category:hover,.wpcom-profile-main .profile-posts-list .item-content .edit-link:hover,.social-login-form .sl-input-submit:hover,body>header.header .dropdown-menu>.active>a:focus,body>header.header .dropdown-menu>.active>a:hover,body>header.header .dropdown-menu>li>a:hover,body>header.header .wpcom-adv-menu>.menu-item-style>.menu-item-wrap .dropdown-menu li a:hover,.navbar-action .publish:focus,.navbar-action .publish:hover,.entry-tag a:focus,.entry-tag a:hover,.entry-bar .meta-item:hover .icon-dashang,.wpcom-shortcode-tags li:hover,.pagination a:hover,.post-loop-default .item-category:hover,.post-loop-card .item-img .item-category:hover,.post-loop-image .item-img .item-category:hover,.widget .tagcloud a:hover,.sidebar .widget_nav_menu ul li.current-menu-item .sub-menu a:hover,.sidebar .widget_nav_menu ul li.current-post-parent .sub-menu a:hover,.sidebar .widget_nav_menu ul li a:hover,.footer-sns .fa:after,.btn-primary.active,.btn-primary:active,.btn-primary:active:hover,.btn-primary:focus,.btn-primary:hover,.btn-primary.disabled:hover,.list.tabs .tab.active a:hover:after,.pf-submit:hover,.login-modal-body .btn-login:hover,.modules-carousel-posts .sec-panel-more .swiper-button-next:hover,.modules-carousel-posts .sec-panel-more .swiper-button-prev:hover {
+    background-color:#f84e4e;
+}
+.action .a-box:hover,.entry .entry-content .has-theme-hover-background-color,.entry-action .btn-dashang.liked,.entry-action .btn-dashang:hover,.entry-action .btn-zan.liked,.entry-action .btn-zan:hover,.entry-readmore-btn:hover,.form-submit .submit:hover,.search-form input.submit:hover,.wpcom-slider .swiper-pagination span:hover,.tagHandler ul.tagHandlerContainer li.tagItem:hover {
+    background-color:#f84e4e;
+}
+.wpcom-profile .wpcom-profile-nav a:hover,.wpcom-profile-main .profile-posts-list .item-title a:hover,.wpcom-profile-main .profile-posts-list .item-meta a:focus,.wpcom-profile-main .profile-posts-list .item-meta a:hover,body>header.header .nav>li>a:hover,body>header.header .wpcom-adv-menu>.menu-item-style>.menu-item-wrap>li>a:hover,.navbar-action .login:focus,.navbar-action .login:hover,.navbar-action .profile a:hover,.navbar-search-icon:focus,.navbar-search-icon:hover,.entry .entry-info a:focus,.entry .entry-info a:hover,.entry .entry-content .has-theme-hover-color,.entry-bar .info-item a:hover,.pagination .pagination-go .pgo-btn:active .fa,.pagination .pagination-go .pgo-btn:focus .fa,.post-loop-list .item a:hover,.post-loop-default .item-title a:hover,.post-loop-default .item-meta a:hover,.post-loop-card .item-title a:hover,.post-loop-image .item-title a:hover,.special-item-title a:hover,.special-item-bottom a:hover,.widget ol a:hover,.widget ul a:hover,a:hover,.sec-panel-head .more:hover,.el-boxed .sec-panel-head h1 span a:hover,.el-boxed .sec-panel-head h2 span a:hover,.el-boxed .sec-panel-head h3 span a:hover,.list.tabs .tab a:hover,.list-links a:focus,.list-links a:hover,.load-more:hover,.login-modal-body .btn-register:hover,.kx-list .kx-content h2 a:hover,.kx-meta .j-mobile-share:hover,.widget_kuaixun .widget-title-more:hover,.modules-category-posts .sec-panel-more a:hover {
+    color:#f84e4e;
+}
+.wpcom-profile .wpcom-profile-nav a:hover {
+    border-bottom-color:#f84e4e;
+}
+.entry-tag a:focus,.entry-tag a:hover,.entry-action .btn-dashang.liked,.entry-action .btn-dashang:hover,.entry-action .btn-zan.liked,.entry-action .btn-zan:hover,.entry-readmore-btn:hover,.pagination .pagination-go .pgo-input:active,.pagination .pagination-go .pgo-input:focus,.widget .tagcloud a:hover,.btn-primary.active,.btn-primary:active,.btn-primary:active:hover,.btn-primary:focus,.btn-primary:hover,.btn-primary.disabled:hover,.load-more:hover {
+    border-color:#f84e4e;
+}
+.special-item-bottom a:hover:before {
+    border-left-color:#f84e4e;
+}
+.login-modal-body .btn-login:hover,.login-modal-body .btn-register:hover,.modules-carousel-posts .sec-panel-more .swiper-button-next:hover,.modules-carousel-posts .sec-panel-more .swiper-button-prev:hover {
+    border-color:#f84e4e;
+}
+@media (max-width:991px) {
+    body>header.header.header-style-2 .navbar-search-icon {
+        color:#f84e4e;
+    }
+    .navbar-action .login.cur,.navbar-action .login.cur.register {
+        border-left-color:#f84e4e;
+    }
+    .navbar-action .login.cur,.navbar-action .login.cur.register {
+        border-right-color:#f84e4e;
+    }
+    .navbar-collapse {
+        background-color:#f84e4e;
+    }
+    body>header.header.header-style-2 .navbar-search-icon:hover {
+        color:#f84e4e;
+    }
+}@media (max-width:767px) {
+    .entry-bar .info-item.share .mobile {
+        background-color:#f84e4e;
+    }
+}@media (min-width:992px) {
+    body {
+        background-color:#f5f5f5;
+        background-repeat:no-repeat;
+        background-size:100% auto;
+        background-size:cover;
+        background-position:center top;
+    }
+    .special-head .special-title,.special-head p {
+        color:#333;
+    }
+    .special-head .page-description:before {
+        background:#333;
+    }
+    .special-head .page-description:before,.special-head p {
+        opacity:0.5;
+    }
+}.j-share {
+     position:fixed!important;
+     top:50%!important;
+ }
+body>header.header {
+    background-color:#fff;
+    background-image:-webkit-linear-gradient(0,#fff 0%,#f5f5f5 100%);
+    background-image:-o-linear-gradient(0,#fff 0%,#f5f5f5 100%);
+    background-image:-moz-linear-gradient(0,#fff 0%,#f5f5f5 100%);
+    background-image:linear-gradient(90deg,#fff 0%,#f5f5f5 100%);
+}
+body>header.header .logo img {
+    max-height:32px;
+}
+@media (max-width:767px) {
+    body>header.header .logo img {
+        max-height:26px;
+    }
+}.entry .entry-video {
+     height:482px;
+ }
+@media (max-width:1219px) {
+    .entry .entry-video {
+        height:386.49883449883px;
+    }
+}@media (max-width:991px) {
+    .entry .entry-video {
+        height:449.41724941725px;
+    }
+}@media (max-width:767px) {
+    .entry .entry-video {
+        height:344.28571428571px;
+    }
+}@media (max-width:500px) {
+    .entry .entry-video {
+        height:241px;
+    }
+}#chakan {
+     background:#f84e4e;
+     color:#fff;
+     line-height:25px;
+     margin:5px 5px 10px 0;
+     padding:0 20px;
+     border-radius:35px;
+     border:4px solid #f40;
+     text-decoration:none
+ }
+#chakan:hover {
+    background:#ff662f;
+    color:#fff;
+    border:4px solid #ff662f;
+}
