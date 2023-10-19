@@ -1,0 +1,341 @@
+.white{
+    color:white;
+}
+.footer {
+    background-color: #222e39;
+    -webkit-transition: background-color .5s ease-in-out;
+    transition: background-color .5s ease-in-out
+}
+
+.footer-content {
+    margin: 0 auto;
+    max-width: 1280px;
+    overflow: hidden;
+}
+
+.footer.footer--secondary {
+    padding: 20px 0;
+    background-color: #1d2730
+}
+
+.footer ul {
+    margin: 0;
+    padding: 0;
+    list-style: none
+}
+
+.footer .icon-love-mondays-png {
+    margin: 20px auto;
+    display: block
+}
+
+@media screen and (min-width:991px) {
+    .footer .icon-love-mondays-png {
+        margin: 0;
+        margin-top: 125px
+    }
+}
+
+@media screen and (min-width:991px) {
+    .footer {
+        padding: 45px 0
+    }
+}
+
+@media screen and (max-width:1024px) {
+    .footer .active {
+        background-color: #1d2730;
+        -webkit-transition: background-color .5s ease-in-out;
+        transition: background-color .5s ease-in-out
+    }
+    .footer .active .footer-drop-down {
+        transform: rotate(180deg) scale(.8)!important;
+        -ms-transform: rotate(180deg) scale(.8)!important;
+        -webkit-transform: rotate(180deg) scale(.8)!important
+    }
+    .footer .active .footer-list {
+        max-height: 500px;
+        -webkit-transition: max-height .5s;
+        transition: max-height .5s
+    }
+}
+
+.footer-menus>li {
+    border-bottom: 1px solid #364859
+}
+
+.footer-menus>li .title {
+    margin: 0;
+    width: 100%;
+    cursor: pointer;
+    position: relative;
+    display: inline-block;
+    font-size: 16px;
+    text-transform: uppercase;
+    color: #fff;
+    font-weight: 600;
+    padding: 20px 0
+}
+
+.footer-menus>li .title .lowercase {
+    text-transform: lowercase;
+    colour: #fff;
+}
+
+.footer-menus>li .title .footer-drop-down {
+    right: 0;
+    position: absolute;
+    top: calc(50% - 3px);
+    width: 14px;
+    height: 8px;
+    background-image: url("../images/drop-down.png");
+    display: inline-block;
+    transform: scale(0.8);
+    -ms-transform: scale(0.8);
+    -webkit-transform: scale(0.8);
+}
+
+@media screen and (min-width:1025px) {
+    .footer-menus>li .title {
+        width: auto;
+        cursor: default;
+        padding: 5px 0
+    }
+}
+
+@media screen and (min-width:991px) {
+    .footer-menus>li {
+        border: 0
+    }
+}
+
+.footer-list {
+    max-height: 0;
+    overflow: hidden;
+    -webkit-transition: max-height .5s;
+    transition: max-height .5s
+}
+
+.footer-list>li {
+    display: block;
+    padding: 0 0 5px 15px
+}
+
+.footer-list>li:last-of-type {
+    padding-bottom: 20px
+}
+
+.footer-list>li>a {
+    line-height: 2.3;
+    font-size: 13px;
+    color: #d6d6d6
+}
+
+.footer-list>li>a:visited {
+    color: #d6d6d6
+}
+
+.footer-list>li>a:hover {
+    color: #fff
+}
+
+.footer-list>li>a:active {
+    color: #d6d6d6
+}
+
+@media screen and (min-width:991px) {
+    .footer-list>li {
+        padding: 0
+    }
+}
+
+@media screen and (min-width:991px) {
+    .footer-list {
+        max-height: none
+    }
+}
+
+.why-you {
+    display: none
+}
+
+.why-you .image {
+    float: left;
+    margin-right: 20px
+}
+
+.why-you .copy {
+    float: left;
+    line-height: 1.7;
+    color: #fff;
+    margin: 40px 0 0 0;
+    font-size: 13px
+}
+
+.why-you .copy .title {
+    font-size: 16px;
+    color: #fff;
+}
+
+.why-you .copy>a {
+    color: #fff;
+}
+
+.why-you .copy>a:visited {
+    color: #fff;
+}
+
+.why-you .copy>a:hover {
+    color: #fff;
+}
+
+.why-you .copy>a:active {
+    color: #fff;
+}
+
+@media screen and (min-width:991px) {
+    .why-you {
+        display: block;
+    }
+}
+
+.icons-container {
+    text-align: center;
+}
+
+.icons-container .icons:first-of-type .icon-list {
+    padding: 4px 0
+}
+
+@media screen and (max-width:767px) {
+    .icons-container .icons:first-of-type {
+        text-align: center;
+        margin-bottom: 10px;
+    }
+}
+
+@media screen and (min-width:1025px) {
+    .icons-container {
+        float: right
+    }
+}
+
+.icons {
+    display: inline-block
+}
+
+.icons .icon-list {
+    float: right
+}
+
+.icons .icon-list>li {
+    display: inline-block;
+    margin-right: 15px
+}
+
+.icons .icon-list>li:last-of-type {
+    margin-right: 0
+}
+
+.icons .icon-list > li .icon-facebook-footer-logo {
+    width: 52px;
+    height: 52px;
+    background-image: url("../images/facebook-footer-logo.png");
+    display: inline-block;
+}
+.icons .icon-list > li .icon-twitter-footer-logo {
+    width: 52px;
+    height: 52px;
+    background-image: url("../images/twitter-footer-logo.png");
+    display: inline-block;
+}
+.icons .icon-list > li .icon-googleplus-footer-logo {
+    width: 52px;
+    height: 52px;
+    background-image: url("../images/googleplus-footer-logo.png");
+    display: inline-block;
+}
+
+.icons .icon-list>li .icon--hover {
+    text-indent: -999em;
+    border-radius: 50%;
+    border: 1px solid #314252;
+    transition: border-color .5s ease;
+    -webkit-transition: border-color .5s ease
+}
+
+.icons .icon-list>li .icon--hover:hover {
+    border-radius: 50%;
+    border: 1px solid #fff;
+    transition: border-color .5s ease;
+    -webkit-transition: border-color .5s ease
+}
+
+@media screen and (min-width:1025px) {
+    .icons {
+        padding-left: 15px
+    }
+}
+
+.legal {
+    text-align: center
+}
+
+.legal .legal-list {
+    margin: 30px 0
+}
+
+.legal .legal-list>li {
+    display: inline;
+    padding: 0 20px;
+    text-align: center
+}
+
+.legal .legal-list>li:last-of-type {
+    padding: 0
+}
+
+@media screen and (max-width:1024px) {
+    .legal .legal-list>li:last-of-type {
+        display: block;
+        text-align: center;
+        padding: 20px 0 0 0
+    }
+}
+
+.legal .legal-list>li>a {
+    text-transform: uppercase;
+    font-size: 13px;
+    font-weight: 600;
+    color: #fff
+}
+
+.legal .legal-list>li>a:visited {
+    color: #fff
+}
+
+.legal .legal-list>li>a:hover {
+    color: #fff
+}
+
+.legal .legal-list>li>a:active {
+    color: #fff
+}
+
+.legal>p {
+    text-align: center;
+    color: #ccc;
+    font-size: 13px
+}
+
+@media screen and (min-width:1025px) {
+    .legal>p {
+        text-align: right
+    }
+}
+
+@media screen and (min-width:1025px) {
+    .legal {
+        float: right
+    }
+}
